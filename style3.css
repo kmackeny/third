@@ -1,0 +1,113 @@
+body{
+  font-family: Georgia, 游明朝, YuMincho, "Hiragino Mincho ProN", Meiryo, serif;
+  background-image: url("haikei5.jpeg");
+
+}
+
+img{
+  height:60%;
+  width:40%;
+  border-radius:100px;
+}
+
+
+header h1{
+  font-size:80px;
+  margin:70px 80px;
+  margin-bottom:-100px;
+  position:relative;
+  bottom:90px;
+}
+
+
+header p{
+  font-family:"Cochin";
+  margin:10px 105px;
+  color:gray;
+  font-size:15px;
+}
+
+.a{
+  float:right;
+  margin-top:-35px;
+  margin-right:330px;
+}
+
+a{
+  margin-right:40px;
+  text-decoration:none;
+  color:gray;
+  border:solid 1px gray;
+  border-radius:10px;
+  opacity:0.7;
+}
+
+.a a:hover{
+ opacity:1;
+ background-color:#f0f0f0;
+}
+
+.search{
+  float:right;
+  margin-top:-50px;
+  margin-right:250px;
+}
+
+.fas fa-search{
+  height:30px;
+  width:30px;
+}
+
+.home{
+  text-align:center;
+  margin-top:100px;
+}
+
+.container{
+  margin-top:100px;
+  margin-bottom:100px;
+  color:gray;
+  text-align:center;
+}
+
+
+
+.main-in{
+  width:80%;
+  margin: 0 auto;
+  margin-top:50px;
+  margin-right:50px;
+}
+
+.point p{
+  margin-top:50px;
+  margin-left:500px;
+  color:gray;
+}
+
+
+.fot{
+  margin-top:50px;
+  width:20%;
+  margin:0 auto;
+  text-align:center;
+}
+
+.fot a{
+  display:inline-block;
+  color:gray;
+  text-decoration:none;
+  border:solid 1px gray;
+  width:180px;
+  height:30px;
+  border-radius:10px;
+  margin-top:-40px;
+}
+
+.fot a:hover{
+  background-color:#f0f0f0;
+}
+
+.middle{
+  color:#f0f0f0;
+}
